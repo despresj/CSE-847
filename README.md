@@ -1,1 +1,1 @@
-# CSE-847
+# CSE-847 Machine Learning Homework
